@@ -10,12 +10,12 @@ Things to remember:
 #Project Idea Template:
 ---------------------------
 ##Your project's name 
-**Project Url:** http://sample.url
-**Development Mailing List (if you have one):**  list@sample.url
-**Development Forum (if you have one):** http://forum.com/forum
-**IRC Channel (if you have one):** #something on FreeNode
-**How you will keep students around after the summer?**: What's your project's plan for retaining students after the summer? Don't minimize this; there's not much point if Google can't 
-**How will these project be merged into the code base?:**
+**Project Url:** http://sample.url    
+**Development Mailing List (if you have one):**  list@sample.url    
+**Development Forum (if you have one):** http://forum.com/forum    
+**IRC Channel (if you have one):** #something on FreeNode    
+**How you will keep students around after the summer?**: What's your project's plan for retaining students after the summer? This is VERY important!!     
+**How will you encourage student participation in your community?**: This relates to the previous question; students should want to continue working on our projects after 
 
 ####Project: Cool Student  GSoC Project Idea Title
 **Explanation:** A description of the idea. Include things like difficulty level, what languages and tools will be used, what kind of. Make sure the people reading this from Google understand what the this project is all about and why this project is worth the effort.
